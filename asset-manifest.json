@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-mobile-phones-e-commerce/static/css/main.ad18886e.chunk.css",
-    "main.js": "/react-mobile-phones-e-commerce/static/js/main.811a8a9c.chunk.js",
-    "main.js.map": "/react-mobile-phones-e-commerce/static/js/main.811a8a9c.chunk.js.map",
+    "main.js": "/react-mobile-phones-e-commerce/static/js/main.4a3ea7f2.chunk.js",
+    "main.js.map": "/react-mobile-phones-e-commerce/static/js/main.4a3ea7f2.chunk.js.map",
     "runtime-main.js": "/react-mobile-phones-e-commerce/static/js/runtime-main.38ad787f.js",
     "runtime-main.js.map": "/react-mobile-phones-e-commerce/static/js/runtime-main.38ad787f.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/react-mobile-phones-e-commerce/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a53ee274.chunk.js": "/react-mobile-phones-e-commerce/static/js/2.a53ee274.chunk.js",
     "static/js/2.a53ee274.chunk.js.map": "/react-mobile-phones-e-commerce/static/js/2.a53ee274.chunk.js.map",
     "index.html": "/react-mobile-phones-e-commerce/index.html",
-    "precache-manifest.bb2ffcbf70c0967d13cdafc823e74a6a.js": "/react-mobile-phones-e-commerce/precache-manifest.bb2ffcbf70c0967d13cdafc823e74a6a.js",
+    "precache-manifest.ec8c72f7f93c45f9657a81f4632b6e77.js": "/react-mobile-phones-e-commerce/precache-manifest.ec8c72f7f93c45f9657a81f4632b6e77.js",
     "service-worker.js": "/react-mobile-phones-e-commerce/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-mobile-phones-e-commerce/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.ad18886e.chunk.css.map": "/react-mobile-phones-e-commerce/static/css/main.ad18886e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a53ee274.chunk.js",
     "static/css/main.ad18886e.chunk.css",
-    "static/js/main.811a8a9c.chunk.js"
+    "static/js/main.4a3ea7f2.chunk.js"
   ]
 }
