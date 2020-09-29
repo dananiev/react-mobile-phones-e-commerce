@@ -1,4 +1,4 @@
-import img from '../public/img';
+import img from './img';
 
 export const storeProducts = [
   {
