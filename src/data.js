@@ -1,11 +1,11 @@
 import phoneOne from './img/phoneOne.png';
-import phoneTwo from './img/phoneOne.png';
-import phoneThree from './img/phoneOne.png';
-import phoneFour from './img/phoneOne.png';
-import phoneFive from './img/phoneOne.png';
-import phoneSix from './img/phoneOne.png';
-import phoneSeven from './img/phoneOne.png';
-import phoneEight from './img/phoneOne.png';
+import phoneTwo from './img/phoneTwo.png';
+import phoneThree from './img/phoneThree.png';
+import phoneFour from './img/phoneFour.png';
+import phoneFive from './img/phoneFive.png';
+import phoneSix from './img/phoneSix.png';
+import phoneSeven from './img/phoneSeven.png';
+import phoneEight from './img/phoneEight.png';
 
 export const storeProducts = [
   {
