@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/react-mobile-phones-e-commerce/static/css/main.ad18886e.chunk.css",
-    "main.js": "/react-mobile-phones-e-commerce/static/js/main.46b7e4ed.chunk.js",
-    "main.js.map": "/react-mobile-phones-e-commerce/static/js/main.46b7e4ed.chunk.js.map",
+    "main.js": "/react-mobile-phones-e-commerce/static/js/main.2e48f696.chunk.js",
+    "main.js.map": "/react-mobile-phones-e-commerce/static/js/main.2e48f696.chunk.js.map",
     "runtime-main.js": "/react-mobile-phones-e-commerce/static/js/runtime-main.38ad787f.js",
     "runtime-main.js.map": "/react-mobile-phones-e-commerce/static/js/runtime-main.38ad787f.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/react-mobile-phones-e-commerce/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.a53ee274.chunk.js": "/react-mobile-phones-e-commerce/static/js/2.a53ee274.chunk.js",
-    "static/js/2.a53ee274.chunk.js.map": "/react-mobile-phones-e-commerce/static/js/2.a53ee274.chunk.js.map",
+    "static/js/2.d9ee9ae3.chunk.js": "/react-mobile-phones-e-commerce/static/js/2.d9ee9ae3.chunk.js",
+    "static/js/2.d9ee9ae3.chunk.js.map": "/react-mobile-phones-e-commerce/static/js/2.d9ee9ae3.chunk.js.map",
     "index.html": "/react-mobile-phones-e-commerce/index.html",
-    "precache-manifest.7aacb8264b37089895b19030ab3b12f5.js": "/react-mobile-phones-e-commerce/precache-manifest.7aacb8264b37089895b19030ab3b12f5.js",
+    "precache-manifest.9f35f0a1f95297bddc106ae8619de6f5.js": "/react-mobile-phones-e-commerce/precache-manifest.9f35f0a1f95297bddc106ae8619de6f5.js",
     "service-worker.js": "/react-mobile-phones-e-commerce/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-mobile-phones-e-commerce/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.ad18886e.chunk.css.map": "/react-mobile-phones-e-commerce/static/css/main.ad18886e.chunk.css.map",
-    "static/js/2.a53ee274.chunk.js.LICENSE.txt": "/react-mobile-phones-e-commerce/static/js/2.a53ee274.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-mobile-phones-e-commerce/static/media/logo.9f7e506d.svg"
+    "static/js/2.d9ee9ae3.chunk.js.LICENSE.txt": "/react-mobile-phones-e-commerce/static/js/2.d9ee9ae3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-mobile-phones-e-commerce/static/media/logo.9f7e506d.svg",
+    "static/media/phoneOne.png": "/react-mobile-phones-e-commerce/static/media/phoneOne.d63d9eff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.38ad787f.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.a53ee274.chunk.js",
+    "static/js/2.d9ee9ae3.chunk.js",
     "static/css/main.ad18886e.chunk.css",
-    "static/js/main.46b7e4ed.chunk.js"
+    "static/js/main.2e48f696.chunk.js"
   ]
 }
